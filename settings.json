@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.tabSize": 2,
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 2,
+    "editor.inlayHints.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "breadcrumbs.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "explorer.compactFolders": false
+}
